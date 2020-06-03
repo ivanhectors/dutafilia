@@ -1,0 +1,28 @@
+body{
+	background: #fcfcfc;
+}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 300;
+	color: #fff;
+}
+
+.tombol{
+	padding: 8px 15px;
+	border-radius: 3px;
+	background: #4cb865;
+	border: none;
+	color: #ffffff;
+	font-size: 12pt;
+}
+
+.kotak{
+    margin: 20px auto;
+    margin-left: 0px;
+    padding-left: 0px;
+	background: #f8f9fa;
+	width: 700px;	
+	padding: 0px 0px 0px 0px;
+	border-radius: 3px;
+}
